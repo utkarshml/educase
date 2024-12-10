@@ -36,7 +36,7 @@ Educase is a school management system built with Node.js, Express, and Sequelize
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/educase.git
+   git clone git@github.com:utkarshml/educase.git
    cd educase
    ```
 
